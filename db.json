@@ -1,0 +1,29 @@
+{
+  "musics": [
+    {
+      "id": "E5F6",
+      "author": "Beyoncé",
+      "song": "Halo"
+    },
+    {
+      "id": "G7H8",
+      "author": "Freddie Mercury",
+      "song": "Bohemian Rhapsody"
+    },
+    {
+      "id": "I9J0",
+      "author": "Mozart",
+      "song": "Eine kleine Nachtmusik"
+    },
+    {
+      "id": "K1L2",
+      "author": "Michael Jackson",
+      "song": "Thriller"
+    },
+    {
+      "id": "f4f0",
+      "author": "AC/DC",
+      "song": "Black in Black"
+    }
+  ]
+}
